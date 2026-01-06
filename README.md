@@ -1,40 +1,68 @@
 # 👨‍💻 Afsaruddin - Senior Full-Stack Web Developer
 
-Welcome to my GitHub! I’m Afsaruddin, a passionate and experienced full-stack engineer specializing in modern web technologies. I architect and deliver scalable, production-ready solutions for startups and enterprises, focusing on clean code, maintainability, and best practices.
+Welcome to my GitHub! I’m Afsaruddin, a passionate and experienced full-stack engineer specializing in modern web technologies. I architect and deliver scalable, production-ready solutions for startups and enterprises.
 
 ---
 
 ## 🚀 Skills & Tech Stack
 
 ### Frontend Development
-- **Frameworks:** React.js, Next.js
+
+- **Frameworks & Libraries:** Next.js, React.js, Redux
 - **Languages:** JavaScript (ES6+), TypeScript
-- **Styling:** Tailwind CSS, HTML5, CSS3
-- **UI/UX:** Responsive, accessible, and pixel-perfect interfaces
+- **Styling & Markup:** HTML5, CSS3
+- **UI/UX Focus:** Responsive design, cross-device compatibility, clean layouts
+- **Design Tools:** Figma (developer–designer collaboration)
 
 ### Backend Development
-- **Languages:** Node.js, JavaScript (ES6+)
-- **Frameworks:** Express.js, Next API Routes
-- **Databases:** MongoDB, MySQL
-- **Authentication:** JWT-based secure auth
 
-### Other Tools & Best Practices
-- RESTful API design
-- Clean folder structure
-- Modular and reusable logic
-- Error handling and input validation
-- Scalable architecture & CI/CD
-- Git & GitHub for version control
+- **Runtime & Frameworks:** Node.js, Express.js, Firebase
+- **API Development:** RESTful APIs, backend deployment
+- **Authentication & Logic:** Secure API handling, scalable backend structure
+
+### Databases
+
+- **Relational:** MySQL, PostgreSQL
+- **NoSQL:** MongoDB
+
+### AI / Machine Learning
+
+- **Frameworks & Libraries:** TensorFlow, scikit-learn
+- **Data Handling & Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib
+
+### Tools & Platforms
+
+- **Version Control:** Git, GitHub
+- **IDEs & Editors:** Visual Studio Code, PyCharm
+- **Deployment & Hosting:** Netlify
+- **Development Environment:** Ubuntu
+- **Productivity & Planning:** Notion
 
 ---
 
-## 💡 About Me
+## 📚 Currently Learning
 
-- 5+ years of professional experience
-- Proven record building robust, scalable SaaS solutions
-- Advocate for clean, maintainable, and testable code
-- Strong collaboration & communication skills
-- Contributor to open-source projects
+- **DevOps & Infrastructure:** Docker, CI/CD
+- **Backend Tooling:** Prisma
+
+---
+
+## 🧠 Soft Skills
+
+- Problem Solving
+- Clear Communication
+- Teamwork & Collaboration
+- Time Management
+- Bias for Action
+- Results-Oriented Mindset
+
+---
+
+## 🌐 Languages
+
+- **Bengali:** Native
+- **English:** Fluent
 
 ---
 
