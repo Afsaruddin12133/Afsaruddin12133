@@ -1,4 +1,4 @@
-# 👨‍💻 Afsaruddin - Senior Full-Stack Web Developer
+# 👨‍💻 Afsaruddin - Full-Stack Web Developer
 
 Welcome to my GitHub! I’m Afsaruddin, a passionate and experienced full-stack engineer specializing in modern web technologies. I architect and deliver scalable, production-ready solutions for startups and enterprises.
 
