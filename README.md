@@ -1,84 +1,71 @@
-<h1 align="center">Hi, I'm Afsar Uddin 👋</h1>
-<h3 align="center">Frontend & Full-Stack Developer | JavaScript Enthusiast</h3>
+# 👨‍💻 Afsaruddin - Senior Full-Stack Web Developer
 
-<p align="center">
-  <a href="mailto:afsaruddin12133@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/afsar-uddin-218056203">LinkedIn</a> •
-  <a href="https://www.facebook.com/profile.php?id=100060586119716">Facebook</a>
-</p>
+Welcome to my GitHub! I’m Afsaruddin, a passionate and experienced full-stack engineer specializing in modern web technologies. I architect and deliver scalable, production-ready solutions for startups and enterprises, focusing on clean code, maintainability, and best practices.
 
 ---
 
-## 🚀 About Me
+## 🚀 Skills & Tech Stack
 
-I am a passionate and disciplined software developer who enjoys building scalable web applications and exploring modern technologies.  
-I believe in writing **clean, maintainable code** and continuously improving my engineering mindset.
+### Frontend Development
+- **Frameworks:** React.js, Next.js
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Styling:** Tailwind CSS, HTML5, CSS3
+- **UI/UX:** Responsive, accessible, and pixel-perfect interfaces
 
-- 🌱 Currently learning **React.js & Node.js**
-- 👯 Open to collaborating on **Open Source, AI, and Machine Learning projects**
-- 💬 Ask me about **JavaScript, Python, Web Development, and Cloud Basics**
-- 📫 Reach me at: **afsaruddin12133@gmail.com**
-- 😄 Pronouns: **He / Him**
+### Backend Development
+- **Languages:** Node.js, JavaScript (ES6+)
+- **Frameworks:** Express.js, Next API Routes
+- **Databases:** MongoDB, MySQL
+- **Authentication:** JWT-based secure auth
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-- HTML5, CSS3, Tailwind CSS
-- JavaScript (ES6+), React.js
-
-**Backend**
-- Node.js, Express.js
-- REST APIs
-
-**Programming Languages**
-- JavaScript
-- Python
-
-**Tools & Platforms**
-- Git & GitHub
-- Firebase
-- MongoDB
-- VS Code
+### Other Tools & Best Practices
+- RESTful API design
+- Clean folder structure
+- Modular and reusable logic
+- Error handling and input validation
+- Scalable architecture & CI/CD
+- Git & GitHub for version control
 
 ---
 
-## 📊 GitHub Analytics
+## 💡 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afsaruddin12133&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsaruddin12133&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afsaruddin12133&theme=radical&row=1&column=6&margin-w=15" />
-</p>
+- 5+ years of professional experience
+- Proven record building robust, scalable SaaS solutions
+- Advocate for clean, maintainable, and testable code
+- Strong collaboration & communication skills
+- Contributor to open-source projects
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Featured Projects
 
-<p align="center">
-  <a href="https://linkedin.com/in/afsar-uddin-218056203">
-    <img src="https://img.shields.io/badge/LinkedIn-Afsar%20Uddin-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100060586119716">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook" />
-  </a>
-</p>
+### [Portfolio Website](https://your-portfolio-url.com)
+My personal portfolio built with Next.js and Tailwind CSS.
 
----
+### [E-commerce Platform]
+Scalable MERN stack application with secure JWT authentication, payment integration, and admin dashboard.
 
-## ✨ Developer Quote
-
-> **"Code is like humor. When you have to explain it, it’s bad."**  
-> — Cory House
+### [Task Manager API]
+RESTful API built with Express, MongoDB, and MySQL, following best practices for real-world usage.
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories.*
+## 📫 Contact & Social
+
+- Email: afsar@example.com
+- LinkedIn: [Afsaruddin](https://linkedin.com/in/afsaruddin)
+- Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
+
+---
+
+## 🏆 How I Work
+
+- Passionate about building products users love
+- Focused on delivering quality, maintainable code
+- Always learning, adapting, and adopting the best tools
+- Committed to scalable, secure, and high-performance applications
+
+---
+
+### Let's build something great together!
