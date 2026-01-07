@@ -60,8 +60,6 @@ Welcome to my GitHub! I’m Afsaruddin, a passionate and experienced full-stack 
 
 ## 🛠️ Featured Projects
 
-## 🚀 Projects
-
 ### NeuroPulse-AI — GitHub | Live Site
 🔗 https://tangerine-sunshine-dd0bb9.netlify.app/
 
