@@ -107,8 +107,8 @@ Welcome to my GitHub! I’m Afsaruddin, a passionate and experienced full-stack 
 ## 📫 Contact & Social
 
 - Email: afsaruddin12133@gmail.com
-- LinkedIn: [Afsaruddin]([(https://www.linkedin.com/in/frontend-developer-in-dhaka/)](https://www.linkedin.com/in/frontend-developer-in-dhaka/))
-- Portfolio: [your-portfolio-url.com]([https://your-portfolio-url.com](https://afsaruddin12133.vercel.app/))
+- LinkedIn: https://www.linkedin.com/in/frontend-developer-in-dhaka/
+- Portfolio: https://afsaruddin12133.vercel.app/
 
 ---
 
