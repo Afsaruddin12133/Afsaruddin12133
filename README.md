@@ -106,7 +106,7 @@ Welcome to my GitHub! I’m Afsaruddin, a passionate and experienced full-stack 
 
 ## 📫 Contact & Social
 
-- Email: afsar@example.com
+- Email: afsaruddin12133@gmail.com
 - LinkedIn: [Afsaruddin](https://linkedin.com/in/afsaruddin)
 - Portfolio: [your-portfolio-url.com]([https://your-portfolio-url.com](https://afsaruddin12133.vercel.app/))
 
